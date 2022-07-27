@@ -1,1 +1,16 @@
-{'ver1':'1', 'ver2':'70', 'ver3':'\n[تحديث] واتساب بلس\n[تعطيل]  ميزة من قام بحظرك\n[اضافة] إمكانية ارسال اي ايموجي في التفاعلات على الرسائل من اختيارك عبر الضغط على "➕"\n[اضافة] الضغط مرتين على الرسالة لعمل لايك\n[اضافة] خيار تحديد الرموز التعبيرية للنقر المزدوج للإعجاب / التفاعل\n[اضافة] رسالة التأكد قبل نشر الحالة (صورة/فيديو)\n[اضافة]  وضع التخفي للمكالمات!\n[اضافة] أظهر للمتصلين أنك لست متصلاً بالإنترنت\n[اضافة] ايقونة التحميل في بروفايل الصور لحفظ الصور الى المعرض\n[اضافة] مشاركة جهة اتصال اي شخص بطريقة سهلة من دون مشاركة معلومات الشخص\n [اضافة] النسخ الاحتياطي في صفحة الكراش\n[اضافة] لبحث من الانترنت او استعمال ايموجي لصورة الملف الشخصي\n[اضافة] تغيير لون نص الحاله ويظهر باللون الذي اخترته بدلا من الابيضر\n[تفعيل] استماع الى التسجيل الصوتي في الخلفية\n[اصلاح]  مشكلة انهيار المكالمات في بعض الهواتف\n[اصلاح]   تأكيد قبل مكالمة الفيديو\n[اصلاح]   خصوصية المجموعة ليست في إعدادات المجموعة  \n[مزيد] من الاصلاحات والاضافات اكتشفها بنفسك\n' , 'dli':'https://www.bharabic.com/2020/09/whatsapp-plus.html' }
+Version 1.70. Changelog:
+
+>Base Update 17.04.36
+>Added Short Video Comments Copy
+>Added Dislike Button
+>Added Download Settings
+>Added SponsorBlock Settings
+>Add all the new additions and features to YouTube
+>Add the option to copy the link inside the video player
+>Added option to copy timestamp link
+>Fixed Download Video
+>Fixed YouTube API
+>Bugs Fixed
+>Fixed an offline problem on some devices
+>Fix download problem in Android 7 versions
+>Lots of bug fixes in this update
