@@ -1,1 +1,2 @@
-7||https://www.bharabic.com/2020/10/youtube-vanced.html||https://www.bharabic.com/2020/10/youtube-vanced.html
+
+{ 	"version": "0.2.23.220220", 	"link": "https://download3333.appsfire.co/apps/youtube-gold/1.60/YTMicroG.apk" }
