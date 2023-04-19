@@ -1,15 +1,1 @@
-Version 3.80. Changelog: 
-
->Base Update 17.25.35 
->Added Short Video Comments Copy 
->Added Dislike Button 
->Added Download Settings 
->Added SponsorBlock Settings 
->Add all the new additions and features to YouTube 
->Add the option to copy the link inside the video player 
->Added option to copy timestamp link 
->Fixed Download Video 
->Fixed YouTube API 
->Bugs Fixed 
->Fixed an offline problem on some devices 
->Fix download problem in Android 7 versions >Lots of bug fixes in this update 
+{'ver1':'7', 'ver2':'35', 'ver3':'\n[تحديث] واتساب بلس\n[اضافة]  خيار لإخفاء ايقونة الكاميرا من الشريط العلوي في الصفحة الرئيسية!\n[تفعيل] عرض حالة الشخص عند الضغط على صورة الشخص في الصفحة الرئيسية\n[تفعيل] عرض حالة الشخص عند الدخول على معلومات الشخص\n[تفعيل] إنشاء صورتك الرمزية المسمى افاتار\n[تفعيل]  ارسال نص عند ارسال شئ بصيغة ملف\n[نقل] خيار إعادة نشر الحالة في مربع التنزيل\n[اصلاح]  جاري الكتابة والتسجيل لا تعمل (مدمجة الآن)\n[اصلاح]    صندوق الارسال ال One UI الجديد لا تفتح المعرض الصحيح\n[اصلاح]   مساحة فارغة على الجانب عند تسجيل ملاحظة صوتية  \n[مزيد] من الاصلاحات والاضافات اكتشفها بنفسك\n' , 'dli':'https://www.bharabic.com/2020/09/whatsapp-plus.html' }
