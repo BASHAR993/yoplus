@@ -1,8 +1,7 @@
 Version 3.0 Changelog:
 
 > [Added] All new features
-> [Added] You can take a screenshot without the knowledge of the other party
-> [added] Re-watch any image without the knowledge of the other party
-> [Added] Hide that you have listened to the audio clip
-> [Fixed] All crash problems
+> [Added] Option Spoof player parameter to solve operating problems
+> [Fixed] Problem of video clips stopping minutes after playing the video
+> [Fixed] Toast "MicroG does not run in the background
 > [More] Fixes and improvements, discover it yourself
