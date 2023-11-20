@@ -1,7 +1,8 @@
-Version 3.0 Changelog:
+Version 4.0 Changelog:
 
 > [Added] All new features
-> [Added] Option Spoof player parameter to solve operating problems
+> [Added] Hide videos with low views
+> [Added] Sanitize sharing links
+> [Added] Spoof player parameter in feed
 > [Fixed] Problem of video clips stopping minutes after playing the video
-> [Fixed] Toast "MicroG does not run in the background
 > [More] Fixes and improvements, discover it yourself
